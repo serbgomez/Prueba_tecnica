@@ -1,4 +1,4 @@
-Prueba SQL
+SQL
 ------------------
 Los 5 QUERYS solicitados se encuentran en la carpeta QUERYS. 
 En el propio fichero P5.sql está también respondida la pregunta teórica relacionada con esa consulta.
