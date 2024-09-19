@@ -7,7 +7,6 @@ El fichero start_day.py contiene el código para determinar el primer día de la
 
 El fichero films.py resuelve todas las preguntas del ejercicio 2.
 Para verificar su funcionalidad, se incluyen unos datos ficticios en films.csv. (Se ha usado pandas únicamente para cargar estos datos)
-
 --------------
 Resultados del Ejercicio 2 aplicado a los datos en films.csv (los ficheros indicados están en la carpeta Results):
 
