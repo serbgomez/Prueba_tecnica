@@ -9,7 +9,7 @@ El fichero films.py resuelve todas las preguntas del ejercicio 2.
 Para verificar su funcionalidad, se incluyen unos datos ficticios en films.csv. (Se ha usado pandas únicamente para cargar estos datos)
 
 --------------
-Resultados del Ejercicio 2 aplicado a los datos en films.csv (los ficheros indicados están en la carpeta resulatdos):
+Resultados del Ejercicio 2 aplicado a los datos en films.csv (los ficheros indicados están en la carpeta Results):
 
 1 - Grupos categoría-idioma con más de 20 películas: 
     m20.csv
