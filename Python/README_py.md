@@ -1,6 +1,7 @@
 Python
 --------------
 
+
 Las preguntas están resueltas en los dos ficheros .py
 
 El fichero start_day.py contiene el código para determinar el primer día de la semana de la fecha introducida
